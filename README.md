@@ -16,8 +16,7 @@ This project aims to build a predictive model to determine the likelihood of sur
    - [Exploratory Data Analysis](#exploratory-data-analysis)
    - [Model Training](#model-training)
 7. [Contributing](#contributing)
-8. [License](#license)
-9. [Contact](#contact)
+8. [Contact](#contact)
 
 ## Project Description
 
@@ -162,9 +161,6 @@ Contributions are welcome! Please follow these steps:
 4. Push to the branch (`git push origin feature/your-feature`).
 5. Open a Pull Request.
 
-## License
-
-This project is licensed under the MIT License. See the `LICENSE` file for more details.
 
 ## Contact
 
